@@ -12,7 +12,7 @@
 
 ## Clustering
 ### [#1 Airflight Customer Segmentation and Analysis](https://github.com/ELSady/Clustering-Airflight-Customer-Segmentation-and-Analysis)
-### [#2 Online Retail Customer RFM Analysis](https://github.com/ELSady/Regression-California-Housing-Price-Prediction/blob/main/README.md)
+### [#2 Online Retail Customer RFM Analysis](https://github.com/ELSady/Online-Retail-Customer-RFM-Analysis/blob/main/Online%20Retail%20Customer%20RFM%20Analysis%20.ipynb)
 ### [#3 Ecommerce Profit-Sales RFM Customers Analysis and Segmentation](https://github.com/ELSady/Online-Ecommerce-Profit-Sales-RFM-Customer-CLustering-and-Analysis/blob/main/E%20commerce%20Profit-Sales%20%2B%20Customer%20RFM%20Clustering%20and%20Analysis.ipynb)
 
 ## Time Series / Forecasting
